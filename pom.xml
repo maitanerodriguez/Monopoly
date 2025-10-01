@@ -51,7 +51,7 @@
 		<sonar.organization>maitanerodriguez</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.projectKey>IntegrazioJarraitua</sonar.projectKey>
-		<sonar.login>7e3afdb7503cc650a7be174b551013374dd4658b</sonar.login>
+		<sonar.login>d7b3fc67379c48dbb976cdc66b99baf4d67bfca8</sonar.login>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
